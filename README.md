@@ -1,2 +1,2 @@
 # neuraloperator
-Trying a few physics cases with neural operators.
+Trying a physics cases with neural operators.
